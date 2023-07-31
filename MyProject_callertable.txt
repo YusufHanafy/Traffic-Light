@@ -1,0 +1,13 @@
+main
+	automatic
+		counter
+			__CC2DW
+				____DoICP
+	manual
+		counter
+			__CC2DW
+				____DoICP
+		automatic
+			counter
+				__CC2DW
+					____DoICP
